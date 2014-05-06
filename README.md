@@ -1,4 +1,4 @@
 AndroidStarbar
 ==============
 
-This is my android starbar
+This is my android starbar.
